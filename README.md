@@ -1,5 +1,7 @@
 # **Finding Lane Lines on the Road**
 
+[Exported Jupyter notebook](https://jefflirion.github.io/udacity_car_nanodegree_project01/P1.html)
+
 
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
